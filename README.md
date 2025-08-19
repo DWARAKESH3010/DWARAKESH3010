@@ -18,13 +18,25 @@
 ---
 
 <h2 align="left">💼 About Me</h2>
-<br>- 🔭 Currently working at Kritilabs Technology  </br>
-<br>- 🌱 Learning AWS, Docker, CI/CD pipelines  </br>
-<br>- 👯 Open to collaborating on AI & ML projects  </br>
-<br>- 💬 Ask me about AI, ML, and Python  </br>
-<br>- 📫 Reach me: dwarakeshsrinivasan2002@gmail.com  </br>
-<br>- 📄 Experience: 8 months as AI/ML Intern  </br>
-<br>- ⚡ Fun fact: I debug faster with coffee ☕ in hand  </br>
+
+I'm DWARAKESH, an AI engineer who finds patterns in chaos.  
+My work lives at the intersection of artificial intelligence and software, where I transform data into intelligent, actionable systems.  
+
+🧠 I’m fascinated by models that learn, adapt, and create — from neural networks to generative AI.  
+⚙️ I thrive on building pipelines, frameworks, and architectures that are efficient, scalable, and reliable.  
+📦 I believe the best AI solutions are intuitive: seamless, elegant, and designed with purpose.  
+🔭 I'm drawn to projects that push the boundaries of what machines can perceive, predict, and generate.  
+🛠️ I’m not just building for today — I’m building systems that think, evolve, and make tomorrow smarter.  
+
+**Current Role & Skills:**  
+- 🔭 Currently working at Kritilabs Technology  
+- 🌱 Learning AWS, Docker, CI/CD pipelines  
+- 👯 Open to collaborating on AI & ML projects  
+- 💬 Ask me about AI, ML, and Python  
+- 📄 Experience: 8 months as AI/ML Intern  
+- ⚡ Fun fact: I debug faster with coffee ☕ in hand  
+- 📫 Reach me anytime: dwarakeshsrinivasan2002@gmail.com
+
 
 ---
 
